@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Valor de resistencias</string>
+    <string name="inicio">Elija los colores de la resistencia de cuatro bandas en su orden</string>
+    <string name="promptspinner">seleccione</string>
+    <string name="calcular">Calcular</string>
+    <string name="Valor">Valor:</string>
+
+</resources>

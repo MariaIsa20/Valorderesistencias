@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colores_tolerancia"> <!--combo -->
+        <!-- genero los items -->
+        <item>Select...</item>
+        <item>Rojo</item>
+        <item>Marron</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+
+    </string-array>
+
+</resources>
